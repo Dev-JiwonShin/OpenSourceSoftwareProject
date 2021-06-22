@@ -1,0 +1,22 @@
+{
+  "name": "trans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "destroyer": "0.0.0",
+    "express": "^4.17.1",
+    "googleapis": "^74.2.0",
+    "http": "0.0.1-security",
+    "oauth2": "0.0.1",
+    "opn": "^6.0.0",
+    "request": "^2.88.2",
+    "server-destroy": "^1.0.1",
+    "url": "^0.11.0"
+  }
+}
