@@ -1,32 +1,8 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email, project_title, project_description
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 <!-- PROJECT LOGO -->
 <br /><br />
 <p align="center">
 
   <h3 align="center">LineMusicChatbot</h3>
-  
   <p align="center">
     원하는 분야에 대한 음악을 추천해주거나 검색해주는 등 사용자가 원하는 노래 정보를 제공하는 챗봇
     <br />
@@ -72,55 +48,62 @@
 </details>
 
 
-<br />
+<br/>
+
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# About The Project
 <br />
+
 <table>
   <tr>
-  <td align="center" ><img src = "/uploads/1c6264269582965aa952f1e62887ff33/KakaoTalk_20210609_015744276_01.jpg" width = "250"/></td>
-    <td valign="top"> <br><br><br><br>
+  <td align="center" >
+  <img src = "https://user-images.githubusercontent.com/71369826/192731120-e559e888-07f7-45e5-b43e-f82f8ed5428c.png" width = "250"/>
+  </td>
+    <td valign="top"> 
 
-    이 프로젝트를 선정한 이유는 평소 음악을 들을 때 불편했던 점을 해소하고 싶었기 때문입니다.<br><br>
-    
-    왼쪽의 사진은 유튜브에서 특정 음악을 검색한 사진입니다. <br><br>
+이 프로젝트를 선정한 이유는 평소 음악을 들을 때 불편했던 점을 해소하고 싶었기 때문입니다.<br>
 
-    '유튜브'는 영상 공유를 주 목적으로 하기 때문에, 유튜브에서 노래 관련 검색만으로 온전히 노래를 즐기기는 어렵습니다. <br><br>
+왼쪽의 사진은 유튜브에서 특정 음악을 검색한 사진입니다. <br>
 
-    예를 들면, 뮤직비디오나 저작권자가 아닌 사람이 올린 영상의 경우 공식 음원에 비해 음질도 떨어집니다.<br><br>
+'유튜브'는 영상 공유를 주 목적으로 하기 때문에, 유튜브에서 노래 관련 검색만으로 온전히 노래를 즐기기는 어렵습니다. <br>
 
-    또한 인트로와 아웃트로 때문에 듣기 불편할 수도 있습니다. <br><br>
+예를 들면, 뮤직비디오나 저작권자가 아닌 사람이 올린 영상의 경우 공식 음원에 비해 음질도 떨어집니다.<br>
 
-    따라서 제대로 된 음악 서비스를 즐기기 위해서는 '유튜브 뮤직' 유료 서비스를 이용해야합니다.<br><br>
-      
-    
-    
+또한 인트로와 아웃트로 때문에 듣기 불편할 수도 있습니다. <br>
+
+따라서 제대로 된 음악 서비스를 즐기기 위해서는 '유튜브 뮤직' 유료 서비스를 이용해야합니다.<br>
+
   </tr>
-</table>
-<br />
-<table>
+<tr>
+  Architecture
+  <img src = "https://user-images.githubusercontent.com/71369826/192767558-1ddff5e3-4e9c-41ab-980a-1c5a0e2903e5.png" />
+
+</tr>
   <tr>
-    
-    <td align="center" ><img src = "/uploads/47cfc2d5e0a2cfdf45cf0bfc1c63e39c/KakaoTalk_20210609_015744276.jpg" width = "250" /></td>
+    <td align="center" >
+      <img src = "https://user-images.githubusercontent.com/71369826/192731426-2dd54a16-8877-4d93-b3d7-5761662757a3.png" width = "250" />
+    </td>
     <td valign="top"> 
     <br>
     <br>
     <br>
     <br>
-    왼쪽의 첨부 파일은 유튜브 뮤직에서 제공하는 플레이리스트입니다. <br><br>
+왼쪽의 첨부 파일은 유튜브 뮤직에서 제공하는 플레이리스트입니다.<br>
 
-    유튜브에서는 이 기능을 이용할 수 없습니다.<br><br>
+유튜브에서는 이 기능을 이용할 수 없습니다.<br>
 
-    1) 어떤 음악을 들어야할지 망설여지는 상황<br>
-    2) 유튜브 뮤직 유료결제 없이 플레이리스트를 즐기고 싶은 상황<br><br>
+1) 어떤 음악을 들어야할지 망설여지는 상황<br>
+2) 유튜브 뮤직 유료결제 없이 플레이리스트를 즐기고 싶은 상황<br><br>
 
-    위와 같은 상황에서 가수나 장르와 관련된 음악을 제공해주는 시스템을 구현하고자 했습니다.<br><br>
+위와 같은 상황에서 가수나 장르와 관련된 음악을 제공해주는 시스템을 구현하고자 했습니다.<br><br>
   
 </table>
 
 <br />
 
-###### 이러한 문제점을 보완하고자 LineMusicChatbot 프로젝트를 시작하게 되었습니다.
+
+## 배경
+이러한 문제점을 보완하고자 LineMusicChatbot 프로젝트를 시작하게 되었습니다.
 
 * LineMusicChatbot은 라인 챗봇 서비스와 YouTube API를 이용하여 만든 음악 추천 및 검색 챗봇입니다.
 
@@ -130,7 +113,7 @@
 
 <br />
 
-### Built With
+## Built With
 
 * [Line Messaging API](https://developers.line.biz/en/services/messaging-api/)
 * [YouTube Data](https://developers.google.com/youtube/v3/getting-started?hl=ko)
@@ -139,6 +122,7 @@
 
 <br />
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 ### Prerequisites
@@ -149,26 +133,26 @@
   npm install
   ```
 <br />
-<br />
+
 
 
 ### Installation
 <br />
-1. Clone the repo
-   ```
-   git clone http://khuhub.khu.ac.kr/2016102927/LineMusicChatbot.git
-   ```
-2. Install NPM packages
-   ```
-   npm install
-   ```
+
+1. Clone the repo<br>
+```
+git clone http://khuhub.khu.ac.kr/2016102927/LineMusicChatbot.git
+```
+
+2. Install NPM packages<br>
+```
+npm install
+```
 <br />
 <br />
 
 
 ### Create Info file
-![Info_1](/uploads/c242c735636d44925f8e39f7a76708ee/Info_1.PNG)
-
 보안을 위해 토큰 값과 API키를 빼놓았습니다.
 새 파일 Info.js 을 생성하고 
 
@@ -188,44 +172,52 @@ exports.domain='2020105631.oss2021.tk'
 ![QR_Code](/uploads/d00b60136d78cb8c790e7d59be1e09e9/QR_Code.png)
 QR 코드를 이용해 챗봇을 등록해주시기 바랍니다.
 
-<img src = "/uploads/0d2282bf7800bf554f833844406b8a8c/KakaoTalk_20210609_163343068.jpg" width = "400" />
+<img src = "https://user-images.githubusercontent.com/71369826/192736621-1add8e80-8062-4655-bbff-0a5de4c62144.png" width = "400" />
 올바르게 친구 추가 되었을 때의 화면입니다.
+<br />
+<br />
+<br />
 
 <!-- USAGE EXAMPLES -->
+
 ## Usage
-<br />
+
 ### Help
-<br />
+
 <table>
   <tr>
-    <td align="center"><img src = "/uploads/7803868d53ebd87368091658f3044fe9/KakaoTalk_20210609_163343068_01.jpg" width = "400" /></td>
+    <td align="center">
+    <img src = "https://user-images.githubusercontent.com/71369826/192736908-229dab44-960c-4773-96b3-c25a9bd14561.png" width = "400" />
+    </td>
     
-      <td align="center">
-    <br><br>      기본적인 구현 예시를 도움말 명령어를 통해 구현해 놓았습니다.<br><br>
-
-          "도움말"을 입력하면 구체적인 구현에 대한 설명을 얻을 수 있습니다.<br>
-</td>
-      
+  <td>
+    기본적인 구현 예시를 도움말 명령어를 통해 구현해 놓았습니다. "도움말"을 입력하면 구체적인 구현에 대한 설명을 얻을 수 있습니다.
+  </td>
+  
   </tr>
 </table>
-
-
 <br />
+
 ### PlayList
-<br />
 
 <table>
   <tr>
-    <td align="center"><img src = "/uploads/ee9c4bfbc32b5d80f45e7b9316eb0a3d/KakaoTalk_20210609_011429047.jpg" width = "400" /></td>
-    
-      <td align="left">
-    <br><br><br>  첫번째 기능은 음악을 추천하는 기능입니다. <br><br>
+    <td align="center">
+    <img src = "https://user-images.githubusercontent.com/71369826/192737478-0e99d3e7-f887-4823-bc70-8024c13d1e5e.png" width = "400" />
+    </td>
 
-      사용자가 입력한 문자열이 "플레이리스트"일 때, 챗봇이 선택지를 제공해 음악 추천을 준비합니다.<br><br>
 
-      원하는 분야를 고르고 또 그 안에서 주어지는 선택지를 선택하면 최종 선택지와 관련한 노래를 무작위로 추천합니다.<br><br>
+<td align="left">
+<br><br><br>  
+첫번째 기능은 음악을 추천하는 기능입니다. 
+<br><br>
 
-      이때, 공식 음원을 찾기 힘들다는 단점을 보완하기 위해 URL을 통해 이동하면 공식 음원으로 이동하는 것을 볼 수 있습니다. <br><br>
+사용자가 입력한 문자열이 "플레이리스트"일 때, 챗봇이 선택지를 제공해 음악 추천을 준비합니다.<br><br>
+
+원하는 분야를 고르고 또 그 안에서 주어지는 선택지를 선택하면 최종 선택지와 관련한 노래를 무작위로 추천합니다.<br><br>
+
+
+이때, 공식 음원을 찾기 힘들다는 단점을 보완하기 위해 URL을 통해 이동하면 공식 음원으로 이동하는 것을 볼 수 있습니다. <br><br>
 
 </td>
       
@@ -239,14 +231,14 @@ QR 코드를 이용해 챗봇을 등록해주시기 바랍니다.
 
 <table>
   <tr>
-    <td align="center"><img src = "/uploads/ac12d4f8d00e9b3ba2ff3fb7368e47ce/KakaoTalk_20210609_011650392.jpg" width="400"/></td>
-    
-      <td align="left">
-    <br><br>
-        지원하는 플레이리스트는 아래와 같이 분류하여 제공합니다. <br><br>
-        * 장르 플레이리스트 : 힙합, 피아노, 팝 <br><br>
-        * 무드 플레이리스트 : 슬픈 노래, 신나는 노래<br><br>
-        * 가수 플레이리스트 : 블랙핑크, 아이유, 트와이스, 레드벨벳<br><br>
+    <td align="center"><img src = "https://user-images.githubusercontent.com/71369826/192737566-e49e8704-fc83-44df-a566-14c1f14c5572.png"/></td>
+
+<td align="left">
+<br><br>
+지원하는 플레이리스트는 아래와 같이 분류하여 제공합니다. <br><br>
+* 장르 플레이리스트 : 힙합, 피아노, 팝 <br><br>
+* 무드 플레이리스트 : 슬픈 노래, 신나는 노래<br><br>
+* 가수 플레이리스트 : 블랙핑크, 아이유, 트와이스, 레드벨벳<br><br>
 </td>
       
   </tr>
@@ -260,23 +252,23 @@ QR 코드를 이용해 챗봇을 등록해주시기 바랍니다.
 <br />
 <table>
   <tr>
-    <td align="center"><img src = "/uploads/099618e7a1bd707cc0727da840cd134c/KakaoTalk_20210609_011938764.jpg" width = "400"/></td>
-    
-      <td align="left">
-    <br>
-        두번째 기능은 검색입니다. <br><br>
+    <td align="center"><img src = "https://user-images.githubusercontent.com/71369826/192737969-29d752ff-22ff-49b1-ac73-5820c9146f36.png" width = "400"/></td>
 
-        자신이 검색하고 싶은 노래가 있다면 유튜브로 번거롭게 이동하여 검색하지 않고 <br><br>
+<td align="left">
+<br>
+두번째 기능은 검색입니다. <br><br>
 
-        바로 검색할 수 있도록 챗봇 자체에 검색 기능을 추가하였습니다.<br><br>
+자신이 검색하고 싶은 노래가 있다면 유튜브로 번거롭게 이동하여 검색하지 않고 <br><br>
 
-        챗봇은 사용자가 입력한 문자열의 유튜브 검색 결과 중 최상단의 결과를 출력하고, <br><br>
+바로 검색할 수 있도록 챗봇 자체에 검색 기능을 추가하였습니다.<br><br>
 
-        그 영상의 제목과 URL 그리고 썸네일 정보를 제공합니다.<br><br>
+챗봇은 사용자가 입력한 문자열의 유튜브 검색 결과 중 최상단의 결과를 출력하고, <br><br>
 
-        이에 관하여 사용자가 판단하기에 챗봇이 썸네일은 보여주지 않았으면 하거나, <br><br>
+그 영상의 제목과 URL 그리고 썸네일 정보를 제공합니다.<br><br>
 
-        출력 정보가 너무 적다고 판단되는 경우를 고려하여 검색에 대하여 설정할 수 있는 기능을 추가하였습니다.<br><br>
+이에 관하여 사용자가 판단하기에 챗봇이 썸네일은 보여주지 않았으면 하거나, <br><br>
+
+출력 정보가 너무 적다고 판단되는 경우를 고려하여 검색에 대하여 설정할 수 있는 기능을 추가하였습니다.<br><br>
 
 </td>
       
@@ -286,15 +278,15 @@ QR 코드를 이용해 챗봇을 등록해주시기 바랍니다.
 
 <br />
 <br />
-### Search Setting
 
+### Search Setting
 <br />
 <table>
   <tr>
-    <td align="center"><img src = "/uploads/5fa9cae43c22178081140ac54e42c8d1/KakaoTalk_20210609_012250106.jpg" width = "400" /></td>
-    
-    <td align="center"><img src = "/uploads/a7afaa1278e08adcc2d5717836f84a82/KakaoTalk_20210609_012849616.jpg" width = "400" /></td>
-    
+    <td align="center"><img src = "https://user-images.githubusercontent.com/71369826/192738109-3ae7d7aa-2185-4b1d-a058-06bd7e0f3d16.png" width = "400" /></td>
+    <td align="center"><img src = "https://user-images.githubusercontent.com/71369826/192738094-f5cfbe17-536d-4fdc-995d-e1d92409cf32.png" width = "400" /></td>
+
+
 
 </td>
       
@@ -319,10 +311,9 @@ QR 코드를 이용해 챗봇을 등록해주시기 바랍니다.
 
 <br />
 <!-- ROADMAP -->
+
 ## Roadmap
 <br />
-![Roadmap_1](/uploads/4bd9416fabb06084c01720da48158591/Roadmap_1.png)
-
 YouTube API를 이용하는 과정에서 문제가 있었습니다.
 
 데이터를 list하는 것 이외에 insert, update, delete 하는 기능은 Oauth 2.0 인증을 필요로 하는데 이 과정이 SSH 챗봇 서버에서 구현이 불가능하다는 문제에 부딪혔습니다.
@@ -346,6 +337,7 @@ YouTube API를 이용하는 과정에서 문제가 있었습니다.
 <br><br>
 
 <br />
+
 <!-- LICENSE -->
 ## License
 <br />
